@@ -1,0 +1,58 @@
+/**
+* @author    JoomlaShine.com http://www.joomlashine.com
+* @copyright Copyright (C) 2008 - 2011 JoomlaShine.com. All rights reserved.
+* @license   JoomlaShine.com Proprietary License
+*/
+@import url(https://fonts.googleapis.com/css?family=Italiana);
+
+body {
+	font-family: Georgia, "Trebuchet MS", Helvetica, sans-serif;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body #jsn-menu a,
+body #jsn-menu span,
+body #jsn-gotoplink,
+body .componentheading,
+body .contentheading {
+	font-family: Georgia, serif;
+}
+body.jsn-specialfont h1,
+body.jsn-specialfont h2,
+body.jsn-specialfont h3,
+body.jsn-specialfont h4,
+body.jsn-specialfont h5,
+body.jsn-specialfont h6,
+body.jsn-specialfont #jsn-menu a,
+body.jsn-specialfont #jsn-menu span.jsn-menutitle,
+body.jsn-specialfont #jsn-menu h3.jsn-moduletitle span,
+body.jsn-specialfont #jsn-gotoplink,
+body.jsn-specialfont .componentheading,
+body.jsn-specialfont .contentheading {
+	font-family: Italiana, Georgia, serif;
+}
+body.jsn-textsize-small {
+	font-size: 70%;
+}
+body.jsn-textsize-medium {
+	font-size: 80%;
+}
+body.jsn-textsize-big {
+	font-size: 90%;
+}
+body.jsn-textstyle-personal.jsn-specialfont ul.menu-mainmenu > li > a {
+	font-weight: bold;
+}
+body.jsn-textstyle-personal.jsn-specialfont .jsn-moduletitle {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+body.jsn-textstyle-personal.jsn-specialfont .contentheading,
+body.jsn-textstyle-personal.jsn-specialfont .componentheading,
+body.jsn-textstyle-personal.jsn-specialfont .subheading {
+	font-size: 1.6em;
+}

@@ -1,0 +1,49 @@
+/**
+* @author    JoomlaShine.com http://www.joomlashine.com
+* @copyright Copyright (C) 2008 - 2011 JoomlaShine.com. All rights reserved.
+* @license   JoomlaShine.com Proprietary License
+*/
+@import url(https://fonts.googleapis.com/css?family=Oswald:regular,bold);
+
+body {
+	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body #jsn-menu a,
+body #jsn-menu span,
+body #jsn-gotoplink,
+body .componentheading,
+body .contentheading {
+	font-family: "Segoe UI", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+body.jsn-specialfont h1,
+body.jsn-specialfont h2,
+body.jsn-specialfont h3,
+body.jsn-specialfont h4,
+body.jsn-specialfont h5,
+body.jsn-specialfont h6,
+body.jsn-specialfont #jsn-menu a,
+body.jsn-specialfont #jsn-menu span.jsn-menutitle,
+body.jsn-specialfont #jsn-menu h3.jsn-moduletitle span,
+body.jsn-specialfont #jsn-gotoplink,
+body.jsn-specialfont .componentheading,
+body.jsn-specialfont .contentheading {
+	font-family: Oswald, Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+body.jsn-textsize-small {
+	font-size: 65%;
+}
+body.jsn-textsize-medium {
+	font-size: 75%;
+}
+body.jsn-textsize-big {
+	font-size: 85%;
+}
+body.jsn-textstyle-business.jsn-specialfont .jsn-moduletitle {
+	font-weight: normal;
+}

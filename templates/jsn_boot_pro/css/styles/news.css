@@ -1,0 +1,60 @@
+/**
+* @author    JoomlaShine.com http://www.joomlashine.com
+* @copyright Copyright (C) 2008 - 2011 JoomlaShine.com. All rights reserved.
+* @license   JoomlaShine.com Proprietary License
+*/
+@import url(https://fonts.googleapis.com/css?family=Cinzel Decorative:regular,bold);
+
+body {
+	font-family: "Times New Roman", Times, serif;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body #jsn-menu a,
+body #jsn-menu span,
+body #jsn-gotoplink,
+body .componentheading,
+body .contentheading {
+	font-family: "Palatino Linotype", Palatino, serif;
+}
+body.jsn-specialfont h1,
+body.jsn-specialfont h2,
+body.jsn-specialfont h3,
+body.jsn-specialfont h4,
+body.jsn-specialfont h5,
+body.jsn-specialfont h6,
+body.jsn-specialfont #jsn-menu a,
+body.jsn-specialfont #jsn-menu span.jsn-menutitle,
+body.jsn-specialfont #jsn-menu h3.jsn-moduletitle span,
+body.jsn-specialfont #jsn-gotoplink,
+body.jsn-specialfont .componentheading,
+body.jsn-specialfont .contentheading {
+	font-family: Cinzel Decorative, "Palatino Linotype", Palatino, serif;
+}
+body.jsn-textsize-small {
+	font-size: 75%;
+}
+body.jsn-textsize-medium {
+	font-size: 85%;
+}
+body.jsn-textsize-big {
+	font-size: 95%;
+}
+body.jsn-textstyle-news.jsn-specialfont ul.menu-mainmenu li a {
+	font-size: 1em;
+}
+body.jsn-textstyle-news.jsn-specialfont ul.menu-mainmenu ul li a {
+	font-size: 0.9em;
+}
+body.jsn-textstyle-news.jsn-specialfont .jsn-moduletitle {
+	font-size: 1.1em;
+}
+body.jsn-textstyle-news.jsn-specialfont .contentheading,
+body.jsn-textstyle-news.jsn-specialfont .componentheading,
+body.jsn-textstyle-news.jsn-specialfont .subheading {
+	font-weight: bold;
+}
